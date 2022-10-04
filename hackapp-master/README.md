@@ -9,12 +9,12 @@
 ![6](https://user-images.githubusercontent.com/85400895/193870415-1e96eb86-c25d-451f-a990-1cdc6fbee319.jpg)
 ![7](https://user-images.githubusercontent.com/85400895/193870446-12349e32-50b7-4c58-9b4a-ee6b61c057b2.jpg)
 ![8](https://user-images.githubusercontent.com/85400895/193870713-6b0a1595-0e54-4374-a02c-7b44df95532a.jpg)
-![9](https://user-images.githubusercontent.com/85400895/193870791-ac111099-a9b4-4e24-8d85-5a12d5fb29bb.jpg)
+
 
 
 Inspiration
 
-Though we have a Facebook marketplace and various other platforms to buy second-hand goods we all know the level of scam that happens in these current existing marketplaces. Every college student needs a variety of things for their college transition; buying everything firsthand is expensive. Going to these pre-existing marketplaces and meeting new people to carry a deal could be a hassle for a college student and he/she could also potentially led to be scammed. In addition to that college students may also lose different items inside the campus. So, we as a team developed College Thrift to solve these two issues.
+Though we have a Facebook marketplace and various other platforms to buy second-hand goods we all know the level of scam that happens in these current existing marketplaces. Every college student needs a variety of things for their college transition; buying everything firsthand is expensive. Going to these pre-existing marketplaces and meeting new people to carry a deal could be a hassle for a college student and he/she could also potentially led to be scammed. In addition to that college students may also lose different items inside the campus. So, College Thrift is developed to solve these two issues.
 
 What it does
 
