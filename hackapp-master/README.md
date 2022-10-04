@@ -13,22 +13,9 @@
 
 
 Inspiration
+
 Though we have a Facebook marketplace and various other platforms to buy second-hand goods we all know the level of scam that happens in these current existing marketplaces. Every college student needs a variety of things for their college transition; buying everything firsthand is expensive. Going to these pre-existing marketplaces and meeting new people to carry a deal could be a hassle for a college student and he/she could also potentially led to be scammed. In addition to that college students may also lose different items inside the campus. So, we as a team developed College Thrift to solve these two issues.
 
 What it does
+
 So, this is basically a platform where verified college students can buy or sell things by getting them registered with us using their college emails which prevents the chances of being scammed on our app. A freshman mostly has to face problems regarding buying things during college time. As it is hard for students to buy new books and new furniture like tables and chairs, So, here comes our app as a lifesaver. Students can easily create a post to sell their old stuff like books, furniture, and sometimes even gadgets, at a reasonable price. And buyers and sellers can communicate with one another via college e-mail or phone number and strike a great deal on their own. Also, there is a section for lost and found items where anyone can post about the found product, and the system for lost and found items gets organized and managed in real time so that the students can search for their lost items and eventually find them.
-
-How we built it
-We built the mobile app using Flutter which is based on the Dart programming language and we used Canva to design the User Interface and Logo.
-
-Challenges we ran into
-Being a beginner in programming, the most challenging task for us was to complete this project within a time of less than a day.
-
-Accomplishments that we're proud of
-College Thrift works as a reuse cycle of the product helping college students buy and sell things safely and also helping to find lost and found items in the college areas. So, we are proud to make college life for students easier.
-
-What we learned
-Primarily, this project helped us to sharpen our knowledge of Flutter and front-end development. As a learner, we not only worked to build our project but also we got a chance to learn many new things about being a programmer and dealing with every challenge that may come over times.
-
-What's next for College Thrift
-Since this is a college/university-centered app, everything will be for one university at first. Then, based on its enhancement, we plan to increase the capacity of the app so that in close proximity it can make a connection between students of any university in the buying and selling of supplies required during college.
